@@ -1,0 +1,27 @@
+{
+  "name": "repeat-str",
+  "version": "1.0.0",
+  "description": "Repeat a string or an array of strings",
+  "main": "repeat-str.js",
+  "exports": {
+    "import": "./repeat-str.js",
+    "require": "./repeat-str.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/repeat-str.js.git"
+  },
+  "keywords": [
+    "repeat-str",
+    "repeat-string",
+    "string",
+    "string-repeat"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/repeat-str.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/repeat-str.js#readme"
+}
